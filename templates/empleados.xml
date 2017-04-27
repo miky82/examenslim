@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RangoSueldo>
+  <opcion>
+    <nombre>SueldoMinimo</nombre>
+    <var>#PARAMETRO_1#</var>
+  </opcion>
+  <opcion>
+    <nombre>SueldoMaximo</nombre>
+    <var>#PARAMETRO_2#</var>
+  </opcion>
+</RangoSueldo>
